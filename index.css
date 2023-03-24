@@ -1,0 +1,240 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+font-family: 'Roboto', sans-serif;   
+}
+.li_a{
+font-weight: 300;
+font-size: 14px;
+color: #656565;
+text-decoration: none;
+}
+.list{
+display: flex;
+justify-content: space-between;
+list-style: none;
+margin-top: 100px;
+}
+/*                 s1                  */
+.mom{
+margin-top: 100px;
+font-weight: 400;
+font-size: 16px;
+color: #656565;
+}
+.planer{
+font-family: 'Alexandra Zeferino One';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 100px;
+/* identical to box height, or 100% */
+color: #656565;
+}
+.plan{
+font-weight: 300;
+font-size: 16px;
+color: #656565;
+}
+.oformit{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+color: #FFFFFF;
+background: #E3B7B5;
+border-radius: 30px;
+padding: 18px 40px;
+border: none;
+margin-left: 20px;
+}
+.oformit:hover{
+padding: 18px 40px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+color: #656565;
+background-color: #FFFFFF;
+border: 3px solid #E3B7B5;
+border-radius: 30px;
+}
+.girlsPhoto{
+width: 100%;
+}
+.for{
+margin: 20px;
+margin-bottom: 0;
+display: flex;
+}
+.while{
+margin-left: 20px;
+}
+.unkown{
+margin-top: 250px;
+background: #FFFFFF;
+border: 3px solid #F1DBDA;
+border-radius: 30px;
+}
+.like{
+margin-right: 20px;
+margin-top: -10px;
+text-align: end;
+/* font-family: 'Alexandra Zeferino One';
+font-style: normal; */
+font-weight: 100;
+font-size: 17px;
+/* line-height: 150%; */
+/* identical to box height, or 30px */
+
+
+color: #656565;
+}
+.live{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+color: #4D4D4D;
+}
+.anna{
+margin-top: 200px;
+}
+/*                 s2                  */
+.big{
+margin-top: -30px;
+background: #FFFFFF;
+border: 3px solid #F1DBDA;
+border-radius: 30px;
+}
+.space{
+text-align: center;
+font-weight: 100;
+/* font-family: 'Alexandra Zeferino One'; */
+font-size: 50px;
+color: #656565;
+margin-bottom: 50px;
+}
+.num{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+color: #4D4D4D;
+}
+.halo-2{
+display: flex;
+align-items: center;
+}
+.minus{
+margin-top: 15px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+color: #4D4D4D;
+margin-left: 10px;
+}
+.halo{
+    margin-left: 30px;
+}
+.up{
+    margin-top: 20px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+color: #FFFFFF;
+background: #E3B7B5;
+border-radius: 30px;
+border: none;
+padding: 18px 80px;
+}
+.deep{
+    display: flex;
+}
+.book{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+color: #4D4D4D;
+}
+.bir{
+ margin-left: 350px;
+}
+/*                 s3                  */
+.cola{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+color: #4D4D4D;
+border: 3px solid #E3B7B5;
+border-radius: 30px;
+padding: 18px 40px;
+background-color: white;
+text-align: center;
+}
+.kalendar{
+    text-align: center;
+}
+
+/*                 s4                  */
+
+/*                 s5                  */
+
+
+
+
+
+
+
+
+/*                 Responsive          */
+@media (max-width: 575px) {
+.girl{
+width: 100%;
+height: 100%;
+}
+.maria{
+width: 100%;    
+}
+.anna{
+margin-top: 0;
+}
+.planer {
+font-family: 'Alexandra Zeferino One';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 100px;
+color: #656565;
+}
+.oformit{
+margin-left: 0;
+margin-top: 10px;
+}
+.unkown{
+margin-top: 0;
+}
+}
