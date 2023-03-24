@@ -149,11 +149,11 @@ color: #4D4D4D;
 margin-left: 10px;
 }
 .halo{
-    margin-left: 30px;
+margin-left: 30px;
 }
 .up{
-    margin-top: 20px;
-    font-family: 'Roboto';
+margin-top: 20px;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -166,10 +166,10 @@ border: none;
 padding: 18px 80px;
 }
 .deep{
-    display: flex;
+display: flex;
 }
 .book{
-    font-family: 'Roboto';
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 18px;
@@ -178,11 +178,11 @@ line-height: 150%;
 color: #4D4D4D;
 }
 .bir{
- margin-left: 350px;
+margin-left: 350px;
 }
 /*                 s3                  */
 .cola{
-    font-family: 'Roboto';
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -194,17 +194,67 @@ border-radius: 30px;
 padding: 18px 40px;
 background-color: white;
 text-align: center;
+margin-left: 20px;
 }
 .kalendar{
-    text-align: center;
+text-align: center;
 }
+.sofi{
+    width: 100%;
+    margin-top: -50px;
+}
+.yes{
+    margin-top: 200px;
+}
+.pepsi{
+font-weight: 600;
+font-size: 16px;
+line-height: 80px;
+/* identical to box height, or 500% */
+color: #FFFFFF;
+background: #E3B7B5;
+border-radius: 30px;
+padding: 0px 80px;
+border: none;
+margin-top: 50px;
+}
+.today{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
 
-/*                 s4                  */
 
-/*                 s5                  */
-
-
-
+color: #4D4D4D;
+}
+/*        footer           */
+footer{
+    background: #504F4F;
+}
+.fa-brands {
+   font-size: 25px;
+   color: #FFFFFF;
+}
+.eli{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+color: #FFFFFF;
+}
+.go{
+    margin-top: 50px;
+}
+.duck{
+    margin-top: 160px;
+}
+.fil{
+    margin-top: 10px;
+}
 
 
 
@@ -236,5 +286,28 @@ margin-top: 10px;
 }
 .unkown{
 margin-top: 0;
+}
+.kalendar {
+    text-align: center;
+    margin-top: 35px;
+}
+.night {
+    margin-left: 42px;
+}
+.cola{
+    margin-left: 50px;
+}
+.space{
+    margin-top: 50px;
+    font-size: 37px;
+}
+.yes{
+    margin: 0;
+}
+.sofi{
+    margin-top: 100px;
+}
+.duck {
+    margin-top: 50px;
 }
 }
